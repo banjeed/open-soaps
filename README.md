@@ -1,3 +1,4 @@
+![open soaps](open-soaps/Logo.svg)
 # Open Source Soap Recipes
 
 A free, community-maintained library of cold-process soap recipes. Browse, make, adapt, and share.
